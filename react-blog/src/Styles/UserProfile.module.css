@@ -1,0 +1,20 @@
+.heading {
+  color: red;
+}
+.image {
+  width: 130px;
+}
+.usercard {
+  width: 130px;
+  border: 1px solid #ddd;
+  box-shadow: 1px 1px 1px 1px #ddd;
+  margin: 10px;
+}
+.textarea {
+  padding: 10px;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
